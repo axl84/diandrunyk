@@ -6,8 +6,8 @@ class Footer extends React.Component {
             <div id="footer">
                 <div className="inner">
                     <ul className="icons">
-                        <li><a href="#" className="icon fa-facebook-messenger"><span className="label">Messenger</span></a></li>
-                        <li><a href="#" className="icon fa-telegram"><span className="label">Telegram</span></a></li>
+                        <li><a href="#" className="icon fa-facebook-f"><span className="label">FB</span></a></li>
+                        <li><a href="#" className="icon fa-instagram"><span className="label">Instagram</span></a></li>
                         <li><a href="#" className="icon fa-behance"><span className="label">Behance</span></a></li>
                         <li><a href="#" className="icon fa-envelope-o"><span className="label">Email</span></a></li>
                     </ul>
