@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: "Diana Andrunyk 🦄",
     author: "Axl84",
-    description: "Diana Andrunyk 🦄 ‒ людина з фотокамерою 📸"
+    description: "Людина з фотокамерою 📸"
   },
   pathPrefix: '/',
   plugins: [
