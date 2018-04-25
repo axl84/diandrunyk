@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: "Gatsby Starter - Strata by HTML5 UP",
-    author: "Hunter Chang",
-    description: "A Gatsby.js Starter based on Strata by HTML5 UP"
+    title: "Diana Andrunyk 🦄",
+    author: "Axl84",
+    description: "Diana Andrunyk 🦄 ‒ людина з фотокамерою 📸"
   },
   pathPrefix: '/',
   plugins: [
@@ -39,4 +39,4 @@ module.exports = {
     `gatsby-plugin-react-helmet`,
     `gatsby-plugin-sass`
   ],
-}
+};

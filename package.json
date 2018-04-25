@@ -1,8 +1,8 @@
 {
   "name": "gatsby-starter-strata",
-  "description": "Gatsby Starter - Strata by HTML5 UP",
+  "description": "Diana Andrunyk 🦄 ‒ людина з фотокамерою 📸",
   "version": "1.0.0",
-  "author": "Hunter Chang",
+  "author": "Axl84",
   "dependencies": {
     "gatsby": "^1.9.235",
     "gatsby-link": "^1.6.39",
@@ -19,7 +19,7 @@
     "lodash": "^4.17.4",
     "react-images": "^0.5.14"
   },
-  "homepage": "https://github.com/ChangoMan/gatsby-starter-strata",
+  "homepage": "https://github.com/axl84/diandrunyk",
   "keywords": [
     "gatsby"
   ],
@@ -27,7 +27,7 @@
   "main": "n/a",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ChangoMan/gatsby-starter-strata.git"
+    "url": "https://github.com/axl84/diandrunyk.git"
   },
   "scripts": {
     "dev": "gatsby develop",
